@@ -1,0 +1,10 @@
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\bin\Debug\ConvertHTMLmarkdown.exe.config
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\bin\Debug\ConvertHTMLmarkdown.exe
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\bin\Debug\ConvertHTMLmarkdown.pdb
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\bin\Debug\Aspose.HTML.dll
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\bin\Debug\Aspose.HTML.xml
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\obj\Debug\ConvertHTMLmarkdown.csprojAssemblyReference.cache
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\obj\Debug\ConvertHTMLmarkdown.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\obj\Debug\ConvertHTMLmarkdown.csproj.CopyComplete
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\obj\Debug\ConvertHTMLmarkdown.exe
+C:\Users\Micro\source\repos\ConvertHTMLmarkdown\ConvertHTMLmarkdown\obj\Debug\ConvertHTMLmarkdown.pdb
